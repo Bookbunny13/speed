@@ -1,0 +1,32 @@
+.speed{
+    background-color: bisque;
+    margin: auto;
+    border-radius: 0%;
+    align-self: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 40px;
+    padding: 250px;
+
+}
+body{
+    background-color: bisque;
+    margin: auto;
+    justify-self: center;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.response{
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin: auto;
+    position: relative;
+}
+.check{
+    background-color: cornsilk;
+    font-family: cursive;
+}
+input{
+    padding: 3px;
+}
